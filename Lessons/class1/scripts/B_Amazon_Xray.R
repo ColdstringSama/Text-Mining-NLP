@@ -5,7 +5,8 @@
 #'
 
 ### 1. Set working directory to your specific movie
-setwd("~/GitHub/class1/data")
+getwd()
+setwd("C:/R workspace/Text-Mining-NLP/Lessons/class1/data")
 
 # Turn off scientific notation
 options(scipen = 999)

@@ -5,7 +5,7 @@
 #'
 
 ## Set the working directory
-setwd("~/GitHub/class1/data")
+setwd("C:/R workspace/Text-Mining-NLP/Lessons/class1/data")
 
 # Libs
 library(maps)
@@ -96,3 +96,4 @@ mplot<- leaflet(data=onlyMA) %>%
 mplot
 
 # End
+

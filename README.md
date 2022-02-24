@@ -34,3 +34,12 @@ install.packages("~/Downloads/openNLPmodels.en_1.5-1.tar.gz", repos = NULL, type
 
 ```
 
+
+
+
+
+
+
+
+
+

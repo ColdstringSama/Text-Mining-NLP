@@ -5,7 +5,7 @@
 #'
 
 # 1. WD
-setwd("~/GitHub/class1/data")
+setwd("C:/R workspace/Text-Mining-NLP/Lessons/class1/data")
 
 # 2. Data
 txt <- read.csv("exampleNews.csv" )
@@ -23,3 +23,4 @@ barplot(pol$group$ave.polarity, names.arg = pol$group$name, las= 2)
 plot(freq)
 
 # End
+
